@@ -1,53 +1,27 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<div class="document">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Documentation for PulsePy &#8212; PulsePy 0.1 documentation</title>
-    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-    <script type="text/javascript" src="_static/jquery.js"></script>
-    <script type="text/javascript" src="_static/underscore.js"></script>
-    <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Documentation for Installing CentOS" href="Install_comp.html" />
-    <link rel="prev" title="Documentation for PulsePy" href="index.html" />
-   
-  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
-  
-  
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+<div class="documentwrapper">
 
-  </head><body>
-  
+<div class="bodywrapper">
 
-    <div class="document">
-      <div class="documentwrapper">
-        <div class="bodywrapper">
-          
+<div class="body" role="main">
 
-          <div class="body" role="main">
-            
-  <div class="section" id="documentation-for-pulsepy">
-<h1><a class="toc-backref" href="#id1">Documentation for PulsePy</a><a class="headerlink" href="#documentation-for-pulsepy" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="documentation-for-pulsepy">
+
+# [Documentation for PulsePy](#id1)[¶](#documentation-for-pulsepy "Permalink to this headline")
+
 <div class="contents topic" id="contents">
-<p class="topic-title first">Contents</p>
-<ul class="simple">
-<li><a class="reference internal" href="#documentation-for-pulsepy" id="id1">Documentation for PulsePy</a><ul>
-<li><a class="reference internal" href="#introduction" id="id2">Introduction</a></li>
-<li><a class="reference internal" href="#requirements-txt" id="id3">requirements.txt</a></li>
-<li><a class="reference internal" href="#module-ScopeTrace" id="id4">ScopeTrace.py</a></li>
-<li><a class="reference internal" href="#module-ScopeData" id="id5">ScopeData.py</a></li>
-<li><a class="reference internal" href="#module-ScopeTrace" id="id7">ScopeTrace.py</a></li>
-<li><a class="reference internal" href="#module-PulseTemplate" id="id6">PulseTemplate.py</a></li>
-</ul>
-</li>
-</ul>
+
+Contents
+
+*   [Documentation for PulsePy](#documentation-for-pulsepy)
+    *   [Introduction](#introduction)
+    *   [requirements.txt](#requirements-txt)
+    *   [ScopeTrace.py](#module-ScopeTrace)
+    *   [ScopeData.py](#module-ScopeData)
+    *   [ScopeTrace.py](#module-ScopeTrace)
+    *   [PulseTemplate.py](#module-PulseTemplate)
+
 </div>
 <div class="section" id="introduction">
 <h2><a class="toc-backref" href="#id2">Introduction</a><a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
@@ -607,7 +581,7 @@ Returns ScopeData object.</p>
       <div class="clearer"></div>
     </div>
     <div class="footer">
-      &copy;2018, Kiryeong Park.
+      &copy;2018, Kiryeong Park, Eli Wirth-Apley.
       
       |
       Powered by <a href="http://sphinx-doc.org/">Sphinx 1.7.5</a>
